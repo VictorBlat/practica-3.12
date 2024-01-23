@@ -1,0 +1,9 @@
+ol.romanos{
+    list-style-type: upper-roman;
+}
+ol.minus{
+    list-style-type: lower-alpha;
+}
+ul.circulo{
+    list-style: circle;
+}
